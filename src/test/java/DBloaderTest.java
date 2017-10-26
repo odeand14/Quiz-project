@@ -6,7 +6,7 @@ import java.util.Properties;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
-// Created by Andreas Ødegaard on 08.12.2016.
+// Created by Andreas Odegaard on 08.12.2016.
 public class DBloaderTest {
     @Test
     public void getConnectionSource() throws Exception {

@@ -1,6 +1,6 @@
 import com.j256.ormlite.field.DatabaseField;
 
-// Created by Andreas Ødegaard on 07.12.2016.
+// Created by Andreas Odegaard on 07.12.2016.
 
 /**
  * Class for ORMlite usage with the Highscore table

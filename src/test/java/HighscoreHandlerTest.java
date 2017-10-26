@@ -5,7 +5,7 @@ import java.util.List;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 
-// Created by Andreas Ødegaard on 07.12.2016.
+// Created by Andreas Odegaard on 07.12.2016.
 
 /**
  * demands having run the DB script.

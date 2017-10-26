@@ -7,7 +7,7 @@ import java.sql.SQLException;
 import java.util.Collections;
 import java.util.List;
 
-// Created by Andreas Ødegaard on 07.12.2016.
+// Created by Andreas Odegaard on 07.12.2016.
 
 /**
  * Class for Highscore object manipulation, updating and downloading from DB and formating.

@@ -3,7 +3,7 @@ import java.net.Socket;
 import java.util.List;
 
 
-// Created by Andreas Ødegaard on 31.10.2016.
+// Created by Andreas Odegaard on 31.10.2016.
 
 /**
  * Class for determining thread behavior and communication with server.

@@ -8,7 +8,7 @@ import java.util.Properties;
 
 import static org.junit.Assert.assertEquals;
 
-// Created by Andreas Ødegaard on 08.12.2016.
+// Created by Andreas Odegaard on 08.12.2016.
 
 /**
  * Testclass for Server/client communication, bit simpler than Server, ThreadRunner and Client in main.

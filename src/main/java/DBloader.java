@@ -7,7 +7,7 @@ import java.io.InputStream;
 import java.sql.SQLException;
 import java.util.Properties;
 
-// Created by Andreas Ødegaard on 31.10.2016.
+// Created by Andreas Odegaard on 31.10.2016.
 
 /**
  * Class for handling DB connection and property file reading.

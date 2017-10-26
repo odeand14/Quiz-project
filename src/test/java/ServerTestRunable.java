@@ -7,7 +7,7 @@ import java.util.Properties;
 
 import static org.junit.Assert.assertEquals;
 
-// Created by Andreas Ødegaard on 08.12.2016.
+// Created by Andreas Odegaard on 08.12.2016.
 
 /**
  * Simple run class for servertesting.

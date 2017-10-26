@@ -5,7 +5,7 @@ import java.net.Socket;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
-// Created by Andreas Ødegaard on 07.12.2016.
+// Created by Andreas Odegaard on 07.12.2016.
 public class ThreadRunnerTest {
     private ThreadRunner threadRunner = new ThreadRunner(new Socket());
 
